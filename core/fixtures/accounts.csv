@@ -1,0 +1,16 @@
+name,txn_type
+Sales,Dr
+Purchase,Cr
+Transport,Cr
+Salary,Cr
+Fixed Expense,Cr
+Maintenance,Cr
+General Expenses,Cr
+Credit,Cr
+Debit,Dr
+Bad Debts,Cr
+Return,Cr
+Direct Expenses,Cr
+Indirect Expenses,Cr
+Direct Income,Dr
+Indirect Income,Dr
